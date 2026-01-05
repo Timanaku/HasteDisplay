@@ -1,6 +1,7 @@
 # HasteDisplay
 
 Displays your current haste percentage with color-coded consumable indicators.
+
 ![HasteDisplay Screenshot](image.png)
 
 ## Requirements
