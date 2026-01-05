@@ -1,6 +1,7 @@
 # HasteDisplay
 
 Displays your current haste percentage with color-coded consumable indicators.
+![HasteDisplay Screenshot](image.png)
 
 ## Requirements
 
@@ -13,8 +14,6 @@ Displays your current haste percentage with color-coded consumable indicators.
 - Color-coded consumable indicators:
   - **Juju Flurry** (3% multiplicative)
   - **Potion of Quickness** (5% multiplicative)
- 
-![HasteDisplay Screenshot](image.png)
 
 ## Color Coding
 
