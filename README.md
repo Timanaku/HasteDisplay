@@ -6,11 +6,11 @@ Displays your current haste percentage with color-coded consumable indicators.
 
 ## Requirements
 
-- Latest version of [nampower](https://gitea.com/avitasia/nampower)
+- Latest version of [nampower](https://gitea.com/avitasia/nampower) and its dependencies.
 
 ## Features
 
-- Real-time haste percentage display
+- Lightweight addon that updates haste when appropriate
 - Draggable frame with saved position
 - Color-coded consumable indicators:
   - **Juju Flurry** (3% multiplicative)
