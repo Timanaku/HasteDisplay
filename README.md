@@ -18,8 +18,8 @@ Displays your current haste percentage with color-coded consumable indicators.
 
 ## Color Coding
 
-- **Green** - Using the consumable will keep you below 66% haste
-- **Yellow** - Using the consumable will put you between 66-100% haste  
+- **Green** - Using the consumable will keep you below 58% haste (Above this haste value is when the cast time of Arcane Rupture goes below GCD)
+- **Yellow** - Using the consumable will put you between 58-100% haste  
 - **Red** - Using the consumable will exceed 100% haste
 
 ## Commands
