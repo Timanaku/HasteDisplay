@@ -54,7 +54,7 @@ frame:SetScript("OnDragStop", function()
 end)
 
 local function GetColorForHaste(projectedHaste)
-    if projectedHaste < 66 then
+    if projectedHaste < 58 then
         return 0, 1, 0, 1 -- Green
     elseif projectedHaste < 100 then
         return 1, 1, 0, 1 -- Yellow
@@ -124,5 +124,6 @@ SlashCmdList["HASTEDISPLAY"] = function(msg)
         DEFAULT_CHAT_FRAME:AddMessage("HasteDisplay shown.")
     end
 end
+
 
 HasteDisplay.frame = frame
